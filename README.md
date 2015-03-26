@@ -1,7 +1,7 @@
 # ifttt
 Fake Wordpress application to forward IFTTT request to an external application 
 
-Read full instructions [here](https://github.com/enova/hacknight/blob/master/README.md)
+> Read full instructions [here](https://github.com/enova/hacknight/blob/master/README.md)
 
 #### Setup
     npm install
