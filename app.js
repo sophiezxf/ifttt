@@ -11,7 +11,7 @@ var webhook = require('express-ifttt-webhook');
 
 var app = express();
 
-var heroku_app = 'https://desolate-anchorage-9964.herokuapp.com/'
+var heroku_app = 'SINATRA_APP_URL_HERE'
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
