@@ -11,7 +11,7 @@ var webhook = require('express-ifttt-webhook');
 
 var app = express();
 
-var heroku_app = 'SINATRA_APP_URL_HERE'
+var heroku_app = 'SINATRA_APP_URL_HERE' //i.e YOURNAME-ruby.herokuapp.com
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
